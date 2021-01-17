@@ -1,26 +1,8 @@
-# Project 2: Building with Responsive Design
+# Project : SQL Zoo
 
-> Recreation of The New Web using responsive design.
+> SQL Zoo is one of the few resources online that actually lets you build and run queries against existing tables. Each tutorial will show you a table and then have you run queries against it to answer specific questions. Some of the queries, particularly at first, are quite simple. They definitely get more challenging towards the end and can be real head scratchers.
 
-> This project is an attempt to recreate a Website called The New Web using HTML, CSS and applying position concepts and UX principles to achieve a responsive website for any device.
-
-## Built with
-
-- HTML and CSS
-
-## Live Demo
-
-[live](https://taiwo2.github.io/nextwebclone/)
-
-## Authors
-
-:bust_in_silhouette: **Author 1**
-
-- GitHub: [@Leandro-Barretoo](https://github.com/Leandro-Barretoo)
-- Twitter: [@Leandro74972596](https://twitter.com/Leandro74972596)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/leandro-miguel-gon%C3%A7alves-barreto-7079b11ba/)
-
-:bust_in_silhouette: **Author 2**
+## Taiwo Adetona
 
 - GitHub: [@taiwo2](https://github.com/taiwo2)
 - Twitter: [@TaiwoAdetona4](https://twitter.com/TaiwoAdetona4)
@@ -28,7 +10,7 @@
 
 ## :thumbsup: Contributing
 
-1. Fork it (<https://github.com/taiwo2/nextwebclone/fork>)
+1. Fork it (<https://github.com/taiwo2/sqlZoo.git/fork>)
 2. Create your feature branch (`git checkout -b <branch-name>`)
 3. Commit your changes (`git commit -m "Descriptive change"`)
 4. Push to the branch (`git push -u origin <branch-name>`)
